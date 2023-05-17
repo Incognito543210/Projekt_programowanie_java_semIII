@@ -1,3 +1,5 @@
+
+//Klasa utworzona w celu korzystania z kolejki priorytetowej
 public class ElementyPQ implements Comparable<ElementyPQ> {
 
     private int ilosc;
